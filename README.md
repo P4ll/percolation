@@ -1,2 +1,2 @@
 # Percolation
-Solve of percolation problem.
+Solve percolation problem.
